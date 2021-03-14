@@ -4,6 +4,7 @@
 /node_modules
 /.idea
 /.pnp
+/.prettierrc
 .pnp.js
 
 # testing
